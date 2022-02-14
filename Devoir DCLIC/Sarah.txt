@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello world</title>
+</head>
+<body>
+    <h1>hello world!</h1>
+    <h2>hello world!</h2>
+    <h1>I'm the most important</h1>
+    <p>this girl is on fire this girl is on fire she lonely fire</p>
+    <h2>I'm less important</h2>
+    <p>I'ts a tragedy for me to see the dream is over girl</p>
+    <h6>I'm the least important</h6>
+    <p>I'm the least important girl of my life </p>
+    <h1>je suis la page google</h1>
+    <p>
+        Important!
+Le mythe se distingue de la légende, qui suppose quelques faits historiques et quelques personnes réelles identifiables, et du conte, qui se veut également inventif, mais dont le but principal n'est pas d'expliquer une réalité fondamentale du monde et de la société.
+
+Il serait exagéré de prendre un mythe au pied de la lettre et de croire que les peuples considèrent les mythes associés à leur propre culture comme étant des explications exactes et crédibles. Le mythe est une explication métaphorique du monde et donne lieu à plusieurs interprétations. 
+    </p>
+    <p><a href="https://www.google.com ">Go to google</a>/p>
+    <h2>I'm green</h2>
+    
+    <p><a href="https://www.google.com">Go to blue</a></p>
+    <h3 id="blue">I'm blue</h3>
+    <p><a href="https://www.google.com">Back to green</a></p>
+    <h4 id="green">green school</h4>
+    <p>My favorite foods/drinks list items</p>
+    <ul>
+        <li>foods</li>
+        <ul type='1'>
+            <li>pizza</li>
+            <li>tacos</li>
+            <li>sandwich</li>
+    </ul>
+        <li>drink</li>
+        <ul type="A">
+            <li>coffee</li>
+            <li>juice</li>
+            <li>scream</li>
+
+        </ul>
+        <h1>Beautiful beach!</h1>
+        <img src="téléchargement.jpg"
+        <img src="téléchargement.jpg" width="300">
+    </ul>
+       
+
+    </ul>
+
+    
+
+</body>
+</html>

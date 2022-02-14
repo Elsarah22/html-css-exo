@@ -1,0 +1,118 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: url(/img/background.png);
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #C55394;
+    color: #fff;
+    width: 100%;
+}
+h2, h3{
+    font-family: 'Courgette', cursive;
+    color: #EB43A3;
+}
+.logo h1{
+    margin-left: 16px;
+    font-family: 'Courgette', cursive;
+}
+.menu a{
+    text-decoration: none;
+    color: #fff;
+    margin-right: 16px;
+    padding: 28px 50px 28px 50px;
+    text-transform: uppercase;
+    margin: 0;
+}
+.menu a:hover{
+    background: #EB43A3;
+
+}
+/* .section{
+} */
+.titre{
+    display: flex;
+    justify-content: center;
+    top: 15%;
+}
+.titre h1{
+    margin: 0;
+    position: relative;
+    top: 124px;
+}
+.rainbow{
+    display: flex;
+    justify-content: center;
+}
+.section{
+    justify-content: center;
+}
+.sheet{
+    height: 1000px auto;
+    width: 1000px;
+    margin:15% auto;
+    padding: 20px;
+    background: #fff;
+    filter: drop-shadow(2px 4px 8px #333);
+    border-radius: 5px;
+    position: relative;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    top: -104px;
+}
+.sheet .principe p{
+    font-size: 16px;
+}
+.sheet .licorne{
+    display: flex;
+    align-items: center;
+}
+figure{
+    justify-content: space-between;
+    margin: 10px;
+}
+.sheet .licorne figure img{
+    justify-content: center;
+    height: 180px;
+}
+figure figcaption{
+    background: #333;
+    position: relative;
+    top: -37px;
+    opacity: 80%;
+} 
+figcaption p{
+    color: #fff;
+    font-size: 16px;
+    margin-left: 65px;
+}
+
+.sheet .trouver{
+    display: flex;
+}
+.trouver .formulaire{
+    margin-left: 16px;
+}
+form .btn input{
+    padding: 5px 20px;
+}
+button{
+    padding: 5px 15px;
+    background: #EB43A3;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+footer{
+    background: #C55394;
+    height: 50px;
+}
+footer p{
+    color: #fff;
+    float: right;
+    margin-right: 16px;
+
+}
